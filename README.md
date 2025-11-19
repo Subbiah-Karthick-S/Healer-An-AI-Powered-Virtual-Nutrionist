@@ -93,3 +93,23 @@
 The `node_modules` directory is not uploaded to GitHub.After cloning the project, install required dependencies.
 
 ---
+
+## Copyright
+
+© 2025 Subbiah Karthick. All rights reserved.
+
+---
+
+## License
+
+This project is not currently licensed. If you would like to use this project, please contact me for permissions.
+
+---
+
+## Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- **Email**: [subbiahkarthickcse@gmail.com](mailto:subbiahkarthickcse@gmail.com)  
+- **GitHub**: [Subbiah-Karthick-S](https://github.com/Subbiah-Karthick-S)
+
