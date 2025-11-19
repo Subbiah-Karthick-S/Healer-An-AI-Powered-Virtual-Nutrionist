@@ -100,12 +100,6 @@ The `node_modules` directory is not uploaded to GitHub.After cloning the project
 
 ---
 
-## License
-
-This project is not currently licensed. If you would like to use this project, please contact me for permissions.
-
----
-
 ## Contact
 
 For any questions or suggestions, feel free to reach out:
